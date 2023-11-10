@@ -34,7 +34,7 @@ Instructions on how IIT Bombay students can interact with the chatbot, including
 
 
 ## Future Enhancements
-**Expand Data Set:** We plan to continuously enrich the chatbot's knowledge base by incorporating additional data from various sources, ensuring the most up-to-date and comprehensive information for IIT Bombay students.
+- **Expand Data Set:** We plan to continuously enrich the chatbot's knowledge base by incorporating additional data from various sources, ensuring the most up-to-date and comprehensive information for IIT Bombay students.
 
 - **Optimize Language Model:** We aim to explore and evaluate different language models to enhance the chatbot's conversational abilities. This includes researching and choosing a more advanced and contextually aware language model that aligns with the evolving landscape of natural language processing.
 
