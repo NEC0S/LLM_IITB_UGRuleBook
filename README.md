@@ -30,25 +30,27 @@ The chatbot is trained on IIT Bombay's own data to ensure relevance and accuracy
 ## Usage
 Instructions on how IIT Bombay students can interact with the chatbot, including example queries and guidance on maximizing its utility.
 
-## How to Contribute
-Follow the preferred process for submitting issues, feature requests, or pull requests.
-
-## Installation
-Instructions for installing and running the chatbot locally, if applicable.
-
-
-## Acknowledgments
-Credit to external libraries, tools, or resources used in the development of the chatbot.
-
-## Contact Information
-Contact details for maintainers or contributors of the project.
 
 ## Future Enhancements
-Outline any plans for future development or additional features.
+**Expand Data Set:** We plan to continuously enrich the chatbot's knowledge base by incorporating additional data from various sources, ensuring the most up-to-date and comprehensive information for IIT Bombay students.
+
+- **Optimize Language Model:** We aim to explore and evaluate different language models to enhance the chatbot's conversational abilities. This includes researching and choosing a more advanced and contextually aware language model that aligns with the evolving landscape of natural language processing.
+
+- **Fine-tune and Specialize:** Fine-tuning the selected language model to better understand the specific nuances of the IIT Bombay community's language and context. This specialization will contribute to a more tailored and effective interaction with users.
+
+- **Integrate User Feedback Mechanism:** Implementing a feedback mechanism to gather insights from users. This will help us understand user preferences, improve the chatbot's responses, and prioritize features based on user needs.
+
+- **Multilingual Support:** Exploring the incorporation of multilingual support to cater to the diverse linguistic preferences within the IIT Bombay community.
+
+- **Enhance Conversational Flow:** Continuously refining the chatbot's conversational flow to make interactions more natural, engaging, and user-friendly.
+
 
 ## Disclaimer
-Include any necessary disclaimers or limitations regarding the chatbot's use and information accuracy.
+Model works very good with normal quetions.
+It is not able to handle multiple queries at a time.
+Model may encounter difficulties when faced with more complex or logical questions.
 
+## Demonstration
 https://github.com/NEC0S/LLM_IITB_UGRuleBook/assets/132522389/a9feb977-8a44-449f-bb28-f4798bdb5d72
 
 
