@@ -1,6 +1,6 @@
 # LLM_IITB_UGRuleBook
 https://nbviewer.org/github/NEC0S/LLM_IITB_UGRuleBook/blob/main/InstiGPT.ipynb
-IIT Bombay Student Chatbot
+**\LARGE IIT Bombay Student Chatbot**
 Overview
 
 Provide a brief introduction to the project, outlining the purpose and goals.
