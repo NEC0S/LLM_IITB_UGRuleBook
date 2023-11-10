@@ -1,54 +1,52 @@
 # LLM_IITB_UGRuleBook
 https://nbviewer.org/github/NEC0S/LLM_IITB_UGRuleBook/blob/main/InstiGPT.ipynb
-**\LARGE IIT Bombay Student Chatbot**
-Overview
 
-Provide a brief introduction to the project, outlining the purpose and goals.
-Project Description
+# IIT Bombay Student Chatbot
 
-Describe the project in more detail, focusing on the development of a dedicated chatbot tailored to serve the IIT Bombay student community. Highlight the key features and functionalities.
-Features
+## Overview
+A dedicated chatbot designed to serve the IIT Bombay student community, providing easy access to information related to academics, tech, sports, culturals, and general queries about the institute.
 
-List the main features of the chatbot, including but not limited to:
+## Project Description
+The project focuses on the development of a chatbot tailored for IIT Bombay students, offering key features and functionalities.
 
-    Academic Information
-    Technical Support
-    Sports Updates
-    Cultural Events
-    General Institute Queries
+## Features
+- Academic Information
+- Technical Support
+- Sports Updates
+- Cultural Events
+- General Institute Queries
 
-Motivation
+## Motivation
+Efficient and centralized access to information is essential for students, driving the need for this dedicated chatbot.
 
-Explain the motivation behind creating the chatbot, emphasizing the need for an efficient and centralized way for students to access information about various aspects of the institute.
-Data Source
+## Data Source
+The chatbot is trained on IIT Bombay's own data to ensure relevance and accuracy.
 
-Briefly explain how the chatbot is trained on IIT Bombay's own data to ensure relevance and accuracy.
-Technologies Used
+## Technologies Used
+- Natural Language Processing (NLP) Libraries
+- Machine Learning Frameworks
+- [Add other technologies/tools used]
 
-List the key technologies and tools used in the development of the chatbot, such as natural language processing (NLP) libraries, machine learning frameworks, etc.
-Usage
+## Usage
+Instructions on how IIT Bombay students can interact with the chatbot, including example queries and guidance on maximizing its utility.
 
-Provide instructions on how users (IIT Bombay students) can interact with the chatbot. Include examples of queries the chatbot can handle and guide users on how to get the most out of the tool.
-How to Contribute
+## How to Contribute
+Follow the preferred process for submitting issues, feature requests, or pull requests.
 
-If applicable, outline how other developers or contributors can contribute to the project. Include information on the preferred process for submitting issues, feature requests, or pull requests.
-Installation
+## Installation
+Instructions for installing and running the chatbot locally, if applicable.
 
-Include instructions on how to install and run the chatbot locally, if applicable.
-License
+## License
+[Specify the license under which the project is distributed]
 
-Specify the license under which the project is distributed.
-Acknowledgments
+## Acknowledgments
+Credit to external libraries, tools, or resources used in the development of the chatbot.
 
-Give credit to any external libraries, tools, or resources that were used in the development of the chatbot.
-Contact Information
+## Contact Information
+Contact details for maintainers or contributors of the project.
 
-Provide contact information for the maintainers or contributors of the project.
-Future Enhancements
+## Future Enhancements
+Outline any plans for future development or additional features.
 
-If there are plans for future development or additional features, briefly outline them here.
-Disclaimer
-
+## Disclaimer
 Include any necessary disclaimers or limitations regarding the chatbot's use and information accuracy.
-
-Feel free to customize this outline according to the specific details and structure of your project.
