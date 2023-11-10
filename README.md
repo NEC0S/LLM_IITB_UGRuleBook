@@ -1,6 +1,8 @@
 # LLM_IITB_UGRuleBook
 https://nbviewer.org/github/NEC0S/LLM_IITB_UGRuleBook/blob/main/InstiGPT.ipynb
 
+https://colab.research.google.com/drive/1WYyNrDSpKQ9WG7g1MF6uoMoglzS4xhNQ?usp=drive_link
+
 # IIT Bombay Student Chatbot
 
 ## Overview
